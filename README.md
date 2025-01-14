@@ -47,3 +47,6 @@ Gilmer Perez: index HTML & JavaScript
 Jonathan Maxen: localstorage HTML & JavaScript
 
 Ivy Taff: CSS & JavaScript
+
+github link
+https://devilwife.github.io/Color-Code-Palette/
